@@ -51,3 +51,14 @@ npm run dev
 ## Team
 
 Built by **Khawaja Moinuddin Jamal** with Hafiz Hassan Mustafa and Ahmed Ouda.
+
+---
+
+## Hire me to build this for you
+
+Want an LLM assistant like this trained on your own course material or documents? I build these through Fiverr.
+
+- [Custom RAG AI chatbot trained on your documents](https://www.fiverr.com/moinjamal/develop-custom-ai-chatbots-and-automate-your-business-tasks)
+- [Fine-tune an LLM or train a custom ML model on your data](https://www.fiverr.com/moinjamal/fine-tune-an-llm-and-train-custom-machine-learning-models-on-your-data)
+
+[![Hire me on Fiverr](https://img.shields.io/badge/Hire_me_on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/moinjamal)
